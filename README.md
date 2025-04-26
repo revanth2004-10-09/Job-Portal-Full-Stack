@@ -1,34 +1,37 @@
-Project Description: Full Stack Job Portal
-This is a Full Stack Job Portal web application built with:
+# 💼 Full Stack Job Portal
 
-React JS for the frontend UI framework.
+A modern, fully responsive **Full Stack Job Portal** built with **React.js**, **Tailwind CSS**, **Supabase**, **Clerk Authentication**, and **Shadcn UI** components.
 
-Tailwind CSS for styling.
+---
 
-Supabase for backend services (likely handling database operations and authentication).
+## 🚀 Live Demo
+👉 [Live Project URL](#) *(add your deployed link here)*
 
-Clerk for user authentication.
+---
 
-Shadcn UI for prebuilt React components.
+## 📸 Preview
+![Job Portal Screenshot](public/banner.jpeg)
 
-The project allows users to interact with a job portal — likely including features like:
+---
 
-Viewing job listings.
+## 🛠️ Tech Stack
 
-Company profiles.
+- **React JS**
+- **Tailwind CSS**
+- **Supabase (Database & Backend services)**
+- **Clerk (Authentication)**
+- **Vite (Build tool)**
+- **Shadcn UI (UI Component Library)**
 
-User authentication and job application management.
+---
 
+## 📦 Installation & Setup
 
-index.html — main HTML template.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/job-portal.git
+   cd job-portal
 
-package.json / yarn.lock — indicates this is a Node.js project with dependencies managed by npm/yarn.
-
-vite.config.js — project uses Vite as the frontend build tool for fast development.
-
-public/ folder — contains static assets like logos and company images.
-
-postcss.config.js / tailwind.config.js — configuration files for styling with Tailwind CSS.
 
 
 
