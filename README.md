@@ -1,12 +1,6 @@
 # 💼 Full Stack Job Portal
 
 A modern, fully responsive **Full Stack Job Portal** built with **React.js**, **Tailwind CSS**, **Supabase**, **Clerk Authentication**, and **Shadcn UI** components.
-
----
-
-## 🚀 Live Demo
-👉 [Live Project URL](#) *(add your deployed link here)*
-
 ---
 
 ## 📸 Preview
