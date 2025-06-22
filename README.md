@@ -4,7 +4,9 @@ A modern, fully responsive **Full Stack Job Portal** built with **React.js**, **
 ---
 
 ## 📸 Preview
-![Job Portal Screenshot](public/banner.jpeg)
+![image](https://github.com/user-attachments/assets/b4a57f05-5704-4e63-93e4-9847b398e7c9)
+
+
 
 ---
 
